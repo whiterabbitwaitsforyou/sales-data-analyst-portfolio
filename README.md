@@ -52,7 +52,8 @@ This project analyzes sales transaction data using SQLite and Python to uncover 
 - Power BI
 - VS Code
 
-#### Business Impact
+## Business Impact
 Dashboard helps management monitor performance and optimize product strategy.
+
 
 
