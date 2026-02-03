@@ -15,9 +15,15 @@ to support business decision-making.
 - Created revenue metric
 - Converted date columns
 
-## 🔍 SQL Analysis
+## 🔍 Project Overview
 
-This project analyzes sales transaction data using SQLite to uncover key business insights related to customer behavior, product performance, and revenue contribution.
+This project analyzes sales transaction data using SQLite and Python to uncover key business insights related to customer behavior, product performance, and revenue contribution, also Power BI to generate actionable business insights.
+
+## Objectives
+- Analyze revenue performance
+- Identify top-selling products
+- Understand customer and order distribution
+- Build interactive dashboard
 
 ### 📊 Data Overview
 - Total orders: 2
@@ -35,9 +41,18 @@ This project analyzes sales transaction data using SQLite to uncover key busines
 ### 💰 Revenue Insights
 - Revenue is highly skewed toward top customers and products.
 - Understanding these patterns can help improve targeted marketing strategies.
+- Monthly trend monitoring possible
+- Category contribution identifiable
 
 ### 🛠️ Tools Used
 - SQLite
 - SQL (Joins, Aggregations, Group By)
 - VS Code with SQLite Explorer
+- Python
+- Power BI
+- VS Code
+
+#### Business Impact
+Dashboard helps management monitor performance and optimize product strategy.
+
 
